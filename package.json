@@ -1,0 +1,22 @@
+{
+  "name": "weblidar",
+  "version": "1.0.0",
+  "description": "3d weblidar for rplidar",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanzummeren/weblidar.git"
+  },
+  "keywords": [
+    "lidar"
+  ],
+  "author": "Erik van Zummeren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanzummeren/weblidar/issues"
+  },
+  "homepage": "https://github.com/evanzummeren/weblidar#readme"
+}
